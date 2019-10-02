@@ -7,3 +7,4 @@ https://docs.azuredatabricks.net/administration-guide/account-settings/azure-dia
 https://docs.microsoft.com/en-us/azure/azure-monitor/log-query/examples
 
 
+https://docs.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core
